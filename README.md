@@ -1,39 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vitoesi Elijah</h1>
+<h3 align="center">A passionate Full-Stack Web Developer from Nigeria</h3>
 
-**I'm Elijah** 
-<!--is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Gueleu_Farida](https://user-images.githubusercontent.com/23447217/215243217-4b5ca097-ce53-40da-9b2a-1a724ffba6cf.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyboi&label=Profile%20views&color=0e75b6&style=flat" alt="ellyboi" /> </p>
 
+<p align="left"> <a href="https://twitter.com/elijahvitoesi" target="blank"><img src="https://img.shields.io/twitter/follow/elijahvitoesi?logo=twitter&style=for-the-badge" alt="elijahvitoesi" /></a> </p>
 
+- 🔭 I’m currently working on **web development skills**
 
+- 🌱 I’m currently learning **JavaScript and React Native**
 
-I enjoy learning, exploring new languages and polishing my skills 
+- 👯 I’m looking to collaborate on **open source and group projects**
 
-- 🔭 I’m currently working on web development skills
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source and group projects <!-- - 🤔 I’m looking for help with ... --> <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farida-gueleu/) <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Smiling can boost your immune system
+- 📫 How to reach me **vitoesitemitope@gmail.com**
 
-### Languages & Frameworks.
-![icons8-javascript-48](https://user-images.githubusercontent.com/23447217/215258025-be054b31-f111-4c3d-8604-c8efac4d6d9e.png)
-![icons8-html-5-48](https://user-images.githubusercontent.com/23447217/215258099-b198b78d-097e-4b42-ba68-8b25390ece63.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/23447217/215258114-bb82fe53-c2b6-4982-b6ce-3e059d22d9f7.png)
-![icons8-angularjs-48](https://user-images.githubusercontent.com/23447217/215257974-f7da6254-329d-415a-956f-5018f6f939a4.png)
+- ⚡ Fun fact **Smiling can boost your immune system**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarida)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/elijahvitoesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elijahvitoesi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vitoesi elijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitoesi elijah" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-### Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarida&count_private=true&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyboi&show_icons=true&locale=en&layout=compact" alt="ellyboi" /></p>
 
-### Interested in:
-- Web apps, front-end, devOps and python.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyboi&show_icons=true&locale=en" alt="ellyboi" /></p>
 
-
-#### Pinned
-Portfolio is a mobile friendly website which was built with mobile-first approach using CSS media queries. The Project list and project description are all manipulated with JavaScript.
-
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=SFarida&repo=portfolio)](https://github.com/SFarida/portfolio)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyboi&" alt="ellyboi" /></p>
