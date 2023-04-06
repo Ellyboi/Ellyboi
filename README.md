@@ -4,6 +4,8 @@
 <h3 align="start">A passionate Full-Stack Web Developer from Nigeria || Open to New Job Opportunities!</h3>
 <p>Full-Stack Developer with knowledge of PostgreSQL, Ruby on Rails, React, and JavaScript. Real-world problem-solving web applications that are streamlined, effective, and scalable are my obsession.</p>
 
+ - [Portfolio link](https://ellyboi.github.io/Portfolio/)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyboi&label=Profile%20views&color=0e75b6&style=flat" alt="ellyboi" /> </p>
@@ -23,8 +25,11 @@
 
 ## Get in touch
 
-- Twitter: https://twitter.com/ElijahVitoesi
-- Linkedin: https://www.linkedin.com/in/vitoesi-elijah-61961611a/
+ - GitHub: [@Ellyboi] (https://github.com/Ellyboi)
+  - Twitter: [@Elijahvitoesi] (https://twitter.com/Elijahvitoesi)
+  - LinkedIn: [Vitoesi Elijah] (https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
+  - Gmail contact: vitoesitemitope@gmail.com
+  - [Portfolio link](https://ellyboi.github.io/Portfolio/)
 
 
 
