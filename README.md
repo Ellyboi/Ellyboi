@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <img src="elijahport2.png"/>
 
-<h3 align="start">A passionate Full-Stack Web Developer from Nigeria</h3>
+<h3 align="start">A passionate Full-Stack Web Developer from Nigeria || Open to New Job Opportunities!</h3>
 <p>Full-Stack Developer with knowledge of PostgreSQL, Ruby on Rails, React, and JavaScript. Real-world problem-solving web applications that are streamlined, effective, and scalable are my obsession.</p>
 
-## Open to New Job Opportunities.!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyboi&label=Profile%20views&color=0e75b6&style=flat" alt="ellyboi" /> </p>
 
