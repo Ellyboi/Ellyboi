@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyboi&show_icons=true&locale=en" alt="ellyboi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyboi&" alt="ellyboi" /></p>
+
+### Interested in:
+- Web apps, front-end and devOps.
