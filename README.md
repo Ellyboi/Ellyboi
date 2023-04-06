@@ -7,6 +7,9 @@
  - [Portfolio link](https://ellyboi.github.io/Portfolio/)
 
 
+**Front-End**: JavaScript, HTML5, CSS3 <br>
+**Tools & Methods**: Git, Github, Gitflow, Chrome Dev Tools <br>
+**Professional**: Remote Pair-Programming, Teamwork
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyboi&label=Profile%20views&color=0e75b6&style=flat" alt="ellyboi" /> </p>
 
