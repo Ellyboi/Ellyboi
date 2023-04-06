@@ -25,7 +25,7 @@
 
 ## Get in touch
 
- - GitHub: [@Ellyboi] (https://github.com/Ellyboi)
+  - GitHub: [@Ellyboi] (https://github.com/Ellyboi)
   - Twitter: [@Elijahvitoesi] (https://twitter.com/Elijahvitoesi)
   - LinkedIn: [Vitoesi Elijah] (https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
   - Gmail contact: vitoesitemitope@gmail.com
