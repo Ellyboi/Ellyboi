@@ -30,7 +30,7 @@
 
   - GitHub: [@Ellyboi] (https://github.com/Ellyboi)
   - Twitter: [@Elijahvitoesi] (https://twitter.com/Elijahvitoesi)
-  - LinkedIn: [Vitoesi Elijah] (https://www.linkedin.com/in/vitoesi-elijah-61961611a/)
+  - LinkedIn: [Vitoesi Elijah] (https://www.linkedin.com/in/elijah-vitoesi/)
   - Gmail contact: vitoesitemitope@gmail.com
   - [Portfolio link](https://ellyboi.github.io/Portfolio/)
 
