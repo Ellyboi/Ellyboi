@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <img src="elijahport1.png"/>
 
-<h3 align="start">A passionate Teacher(Economists) and Full-Stack Web Developer from Nigeria || Open to New Job Opportunities!</h3>
+<h3 align="start">A passionate Teacher and Full-Stack Web Developer from Nigeria || Open to New Job Opportunities!</h3>
 <p>Full-Stack Developer with knowledge of PostgreSQL, Ruby on Rails, React, and JavaScript. Real-world problem-solving web applications that are streamlined, effective, and scalable are my obsession.</p>
 
  - [Portfolio link](https://ellyboi.github.io/Portfolio/)
